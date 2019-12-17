@@ -1,4 +1,7 @@
 This text is a demo.
+Add in github.
+To see conflict.
+this is also add.
 I do this is to see conflict.
 More line is important.
 So, this is also a line.
