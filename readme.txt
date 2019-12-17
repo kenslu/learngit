@@ -1,4 +1,6 @@
 Git is a distributed version control system.
+Add there at 15:16.
+To see conflict.
 Git is free sofrware distributed under the GPL.
 Git has mutable index called stage.
 Git tracks changes of files.
