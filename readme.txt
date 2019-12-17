@@ -6,4 +6,4 @@ Git has mutable index called stage.
 
 Git tracks changes of files.
 
-loss intnet!!!!!!!!!!!!!!
+delete a line to see the conflict and the alter in github web.
