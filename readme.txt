@@ -9,3 +9,6 @@ Git tracks changes of files.
 loss intnet!!!!!!!!!!!!!!
 
 To see conflict and add in the git.
+
+delete a line to see the conflict and the alter in github web.
+
