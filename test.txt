@@ -1,0 +1,5 @@
+This text is a demo.
+I do this is to see conflict.
+More line is important.
+So, this is also a line.
+over!
