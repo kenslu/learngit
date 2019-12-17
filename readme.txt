@@ -11,3 +11,4 @@ To see conflict and add in the git.
 delete a line to see the conflict and the alter in github web.
 
 add two.
+add int git to see conflict.
