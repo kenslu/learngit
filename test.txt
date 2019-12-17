@@ -1,5 +1,6 @@
 This text is a demo.
 I do this is to see conflict.
 More line is important.
+add in git to see conflict.
 So, this is also a line.
 over!
